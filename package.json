@@ -6,7 +6,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.603.0",
+    "aws-sdk": "^2.814.0",
     "knex": "^0.20.8",
     "mysql2": "^2.1.0",
     "object-hash": "^2.0.1",
